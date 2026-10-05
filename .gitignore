@@ -1,0 +1,9 @@
+/*
+!/.gitignore
+!/PROGETTO/
+PROGETTO/dati/change-it/repubblica.csv
+PROGETTO/dati/istat/comuni/
+PROGETTO/output_repubblica.csv
+PROGETTO/PROGETTO_CHIARI_COCCI_DESIMONE.ipynb
+PROGETTO/PROGETTO_con_*
+PROGETTO/PROGETTO_definitivo.ipynb
