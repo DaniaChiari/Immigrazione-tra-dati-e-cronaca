@@ -8,13 +8,13 @@
 ## Panoramica
 Questo progetto nasce come lavoro di gruppo nell'ambito del corso universitario di Introduzione alla Programmazione (**python**). La versione pubblicata in questo repository include modifiche e correzioni apportate autonomamente dalla sottoscritta in un secondo momento, dopo la conclusione dell'esame.
 Di seguito, vengono illustrati gli obiettivi del lavoro:
-1. **Analisi statistico-distribuzionale**: indagare la presenza e l'evoluzione demografica di sei comunità target sul territorio italiano dal 2013-2019, prestando attenzione anche alla distribuzione geografica nelle diverse ripartizioni territoriali (Nord, Centro, Sud, Isole).
-2. **Analisi comparativa**: verificare se la rappresentazione mediatica di tali comunità, nel corpus di articoli de *La Repubblica*, sia coerente rispetto all'effettiva presenza sul territorio. L'analisi si articola in tre confronti:
-3. **Analisi terminologica**: intercettare l'esistenza di **associazioni terminologiche** tra comunità straniere e parole con differenti connotazioni (positive, negative o neutre), rintracciate negli articoli incentrati sull'immigrazione.
+1.  **Analisi statistico-distribuzionale**: indagare la presenza e l'evoluzione demografica di sei comunità target sul territorio italiano dal 2013-2019, prestando attenzione anche alla distribuzione geografica nelle diverse ripartizioni territoriali (Nord, Centro, Sud, Isole).
+2.  **Analisi comparativa**: verificare se la rappresentazione mediatica di tali comunità, nel corpus di articoli de *La Repubblica*, sia coerente rispetto all'effettiva presenza sul territorio. L'analisi si articola in tre confronti:
+3.  **Analisi terminologica**: intercettare l'esistenza di **associazioni terminologiche** tra comunità straniere e parole con differenti connotazioni (positive, negative o neutre), rintracciate negli articoli incentrati sull'immigrazione.
 
-- I testi degli articoli sono stati tokenizzati con una funzione di tokenizzazione basata su regex (`\w+`), previa normalizzazione in minuscolo.
-- È stata sviluppata un'euristica basata su criteri posizionali, al fine di conteggiare con maggiore precisione le occorrenze relative alle nazionalità target.
-- Per l'analisi terminologica è stato creato un codice che crea, per ogni articolo, un set di indici di contesto, ovvero gli indici delle parole che si trovano intorno all'occorrenza della nazionalità entro una finestra predefinita.
+-  I testi degli articoli sono stati tokenizzati con una funzione di tokenizzazione basata su regex (`\w+`), previa normalizzazione in minuscolo.
+-  È stata sviluppata un'euristica basata su criteri posizionali, al fine di conteggiare con maggiore precisione le occorrenze relative alle nazionalità target.
+-  Per l'analisi terminologica è stato creato un codice che crea, per ogni articolo, un set di indici di contesto, ovvero gli indici delle parole che si trovano intorno all'occorrenza della nazionalità entro una finestra predefinita.
 
 ## Struttura
 ```
