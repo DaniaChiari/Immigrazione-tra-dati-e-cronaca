@@ -6,7 +6,7 @@
 **Università**: Dati, metodi e modelli per le scienze linguistiche (Unibo)
 
 ## Panoramica
-Questo progetto nasce come lavoro di gruppo nell'ambito del corso universitario di Introduzione alla Programmazione (**python**). La versione pubblicata in questo repository include modifiche e correzioni apportate autonomamente dalla sottoscritta in un secondo momento, dopo la conclusione dell'esame.
+Questo progetto nasce come lavoro di gruppo nell'ambito del corso universitario di Introduzione alla Programmazione (**Python**). La versione pubblicata in questo repository include modifiche e correzioni apportate autonomamente dalla sottoscritta in un secondo momento, dopo la conclusione dell'esame.
 Di seguito, vengono illustrati gli obiettivi del lavoro:
 - **Analisi statistico-distribuzionale**: indagare la presenza e l'evoluzione demografica di sei comunità straniere target sul territorio italiano dal 2013-2019, prestando attenzione anche alla distribuzione geografica nelle diverse ripartizioni territoriali (Nord, Centro, Sud, Isole).
 - **Analisi comparativa**: verificare se la rappresentazione mediatica di tali comunità, nel corpus di articoli de *La Repubblica*, sia coerente rispetto all'effettiva presenza sul territorio. 
@@ -39,6 +39,6 @@ Il file deriva dal dataset [ChangeIT](https://github.com/LanD-FBK/ChangeIT) (pro
 
 ## Come eseguire il notebook
 1. Clonare il repository
-2. Scaricare `repubblica.csv` dal link sopra e posizionalo in `dati/change-it/repubblica.csv`
+2. Scaricare `repubblica.csv` dal link sopra e posizionarlo in `dati/change-it/repubblica.csv`
 3. Installare le dipendenze: `pandas`, `numpy`, `matplotlib`, `seaborn` (oltre a `re` e `os`, già inclusi in Python)
 4. Eseguire `progetto_github.ipynb` in ordine, dall'alto verso il basso
