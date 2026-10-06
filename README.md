@@ -1,6 +1,8 @@
 # IMMIGRAZIONE TRA DATI E CRONACA
 **Autrici**: Dania Chiari, Claudia Cocci, Sara De Simone
+
 **Corso**: Introduzione alla programmazione
+
 **Università**: Dati, metodi e modelli per le scienze linguistiche (Unibo)
 
 ## Panoramica
