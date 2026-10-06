@@ -35,7 +35,7 @@ I dati relativi alle cittadinanze straniere sono forniti dall'Istat e inclusi in
 ### repubblica.csv
 Il file `repubblica.csv` (63.702 articoli de *La Repubblica*, 2013-2019) non è incluso in questo repository per motivi di dimensione.
 **Scaricalo da [qui](https://drive.google.com/file/d/1bE36jHuy_xLcyuZc2VY1J5YhDyA09_tC/view?usp=sharing)** e posizionalo in `dati/change-it/repubblica.csv` prima di eseguire il notebook.
-Il file deriva dal dataset [ChangeIT](https://github.com/LanD-FBK/ChangeIT) (progetto EVALITA), ma è stato preventivamente filtrato/ripulito dal docente del corso; non corrisponde quindi esattamente alla versione pubblica originale del dataset.
+Il file deriva dal dataset ChangeIT (progetto EVALITA), ma è stato preventivamente filtrato/ripulito dal docente del corso; non corrisponde quindi esattamente alla versione pubblica originale del dataset.
 
 ## Come eseguire il notebook
 1. Clonare il repository
