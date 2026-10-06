@@ -1,20 +1,22 @@
 # IMMIGRAZIONE TRA DATI E CRONACA
-#### Autrici: Dania Chiari, Claudia Cocci, Sara De Simone
-#### Corso: Introduzione alla programmazione
-#### Università: Dati, metodi e modelli per le scienze linguistiche (Unibo)
+**Autrici**: Dania Chiari, Claudia Cocci, Sara De Simone
+**Corso**: Introduzione alla programmazione
+**Università**: Dati, metodi e modelli per le scienze linguistiche (Unibo)
 
 ## Panoramica
 Questo progetto nasce come lavoro di gruppo nell'ambito del corso universitario di Introduzione alla Programmazione. La versione pubblicata in questo repository include modifiche e correzioni apportate autonomamente dalla sottoscritta in un secondo momento, successivamente alla conclusione dell'esame.
 
 ## Struttura
+```
 PROGETTO/
 ├── dati/
-│ ├── change-it/
-│ │ └── repubblica.csv (da scaricare, cfr. *sotto*)
-│ └── istat/
-│ └── Dati_RCS/
+│   ├── change-it/
+│   │   └── repubblica.csv      (da scaricare, vedi sotto)
+│   └── istat/
+│       └── Dati_RCS/
 ├── progetto_github.ipynb
 └── README.md
+```
 
 ## Dati 
 ### Dati Istat
