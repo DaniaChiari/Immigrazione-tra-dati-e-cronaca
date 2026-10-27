@@ -6,7 +6,7 @@
 **Università**: Dati, metodi e modelli per le scienze linguistiche (Unibo)
 
 ## Panoramica
-"Immigrazione tra dati e cronaca" nasce come lavoro di gruppo nell'ambito del corso universitario di Introduzione alla Programmazione (**Python**). La versione pubblicata in questo repository include modifiche e correzioni apportate autonomamente dalla sottoscritta in un secondo momento, dopo la conclusione dell'esame.
+***Immigrazione tra dati e cronaca*** nasce come lavoro di gruppo nell'ambito del corso universitario di Introduzione alla Programmazione (**Python**). La versione pubblicata in questo repository include modifiche e correzioni apportate autonomamente dalla sottoscritta in un secondo momento, dopo la conclusione dell'esame.
 
 Tale progetto si propone di operare una duplice analisi, quantitativa e qualitativa, a partire da due ampi dataset di riferimento: un dataset ISTAT contenente dati relativi a nascita e cittadinanza delle comunità straniere presenti sul suolo italiano, e un file .csv contenente oltre 60.000 articoli de *La Repubblica* (datati dal 2013 al 2019). Di seguito, vengono illustrati gli obiettivi del lavoro:
 - **Analisi statistico-distribuzionale**: indagare la presenza e l'evoluzione demografica di sei comunità straniere target sul territorio italiano dal 2013-2019, prestando attenzione anche alla distribuzione geografica nelle diverse ripartizioni territoriali (Nord, Centro, Sud, Isole).
