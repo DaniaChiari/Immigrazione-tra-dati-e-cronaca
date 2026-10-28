@@ -20,13 +20,15 @@ Tale progetto si propone di operare una duplice analisi, quantitativa e qualitat
 
 ## Struttura
 ```
-PROGETTO/
-├── dati/
-│   ├── change-it/
-│   │   └── repubblica.csv      (da scaricare, vedi sotto)
-│   └── istat/
-│       └── Dati_RCS/
-├── progetto_github.ipynb
+Immigrazione-tra-dati-e-cronaca/
+├── PROGETTO/
+│   ├── dati/
+│   │   ├── change-it/
+│   │   │   └── repubblica.csv      (da scaricare, vedi sotto)
+│   │   └── istat/
+│   │       └── Dati_RCS/
+│   └── progetto_github.ipynb
+├── .gitignore
 └── README.md
 ```
 
