@@ -35,11 +35,12 @@ PROGETTO/
 I dati relativi alle cittadinanze straniere sono forniti dall'Istat e inclusi in questo repository, nella cartella `dati/istat/Dati_RCS/`.
 ### repubblica.csv
 Il file `repubblica.csv` (63.702 articoli de *La Repubblica*, 2013-2019) non è incluso in questo repository per motivi di dimensione.
-**Scaricalo da [qui](https://drive.google.com/file/d/1bE36jHuy_xLcyuZc2VY1J5YhDyA09_tC/view?usp=sharing)** e posizionalo in `dati/change-it/repubblica.csv` prima di eseguire il notebook.
+**Scaricalo da [qui](https://drive.google.com/file/d/1bE36jHuy_xLcyuZc2VY1J5YhDyA09_tC/view?usp=sharing)** e posizionalo in `PROGETTO/dati/change-it/repubblica.csv`. La cartella `change-it` non è inclusa nel repository (Git non mi consente di caricare cartelle vuote): va creata a mano dentro `PROGETTO/dati/`.
 Il file deriva dal dataset ChangeIT (progetto EVALITA), ma è stato preventivamente filtrato/ripulito dal docente del corso; non corrisponde quindi esattamente alla versione pubblica originale del dataset.
 
 ## Come eseguire il notebook
 1. Clonare il repository
-2. Scaricare `repubblica.csv` dal link sopra e posizionarlo in `dati/change-it/repubblica.csv`
-3. Installare le dipendenze: `pandas`, `numpy`, `matplotlib`, `seaborn` (oltre a `re` e `os`, già inclusi in Python)
-4. Eseguire `progetto_github.ipynb` in ordine, dall'alto verso il basso
+2. Scaricare `repubblica.csv` dal link sopra
+3. Creare la cartella `change-it` dentro `PROGETTO/dati/` e inserirvi il file, in modo che il percorso sia `PROGETTO/dati/change-it/repubblica.csv`
+4. Installare le dipendenze: `pandas`, `numpy`, `matplotlib`, `seaborn` (oltre a `re` e `os`, già inclusi in Python)
+5. Aprire `PROGETTO/progetto_github.ipynb` (avviando Jupyter o VS Code dalla cartella `PROGETTO`) ed eseguirlo in ordine, dall'alto verso il basso
